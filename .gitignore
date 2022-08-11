@@ -1,0 +1,8 @@
+venv/
+bin/
+etc/
+lib/
+lib64/
+share/
+# lib64 is just a file with symlinks seems like
+lib64
